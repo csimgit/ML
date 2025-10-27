@@ -1,1 +1,0 @@
-streamlit run scripts/dashboard_app.py
