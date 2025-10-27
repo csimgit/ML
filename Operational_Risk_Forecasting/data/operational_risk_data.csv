@@ -1,0 +1,11 @@
+Date,Operational_Losses,Department,Event_Type,External_Factor
+1/1/2024,12000,Finance,System Failure,0.5
+1/2/2024,8000,IT,Fraud,0.6
+1/3/2024,5000,HR,Human Error,0.4
+1/4/2024,15000,Finance,System Failure,0.7
+1/5/2024,7000,IT,Fraud,0.5
+1/6/2024,9000,HR,Human Error,0.4
+1/7/2024,13000,Finance,System Failure,0.6
+1/8/2024,6000,IT,Fraud,0.5
+1/9/2024,4000,HR,Human Error,0.3
+1/10/2024,16000,Finance,System Failure,0.8
